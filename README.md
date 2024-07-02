@@ -13,9 +13,12 @@
  <img align="center" alt="NIC-R"
 height="30" width="50"
 src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img align="center" alt="NIC-SQLITE"
+<img align="center" alt="NIC-Sqlite"
 height="30" width="50"
-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img align="center" alt="NIC-Tableu"
+height="30" width="50"
+src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 </div>
  
 <div> 
