@@ -3,7 +3,7 @@
 - 📖Estou estudando Deep Leaning
 - 💼 Em busca de uma oportunidade no mercado
 - 📈Meu objeitvo é gerar valor as empresas
-- 🚹 Pronoums: Ele/Dele
+- 🚹 Pronomes: Ele/Dele
 <div>
   <a href="https://github.com/Nic62">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nic62&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
