@@ -1,6 +1,6 @@
 ## Olá sou Nicollas 
 - 💻Eu sou estandante de Data Science & IA
-- 📖Estou estudando Deep Leaning
+- 📖Estou estudando LLM
 - 💼 Em busca de uma oportunidade no mercado
 - 📈Meu objeitvo é gerar valor as empresas
 - 🚹 Pronomes: Ele/Dele
