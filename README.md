@@ -13,7 +13,7 @@
   <img align="center" alt="NIC-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="NIC-R"
 height="30" width="50"
-src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
 <img align="center" alt="NIC-Sqlite"
 height="30" width="50"
 src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
