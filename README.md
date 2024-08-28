@@ -19,7 +19,8 @@ height="30" width="50"
 src=https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
 <img align="center" alt="NIC-Tableu"
 height="30" width="50"
-src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+src=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)](https://powerbi.microsoft.com/
+">
 </div>
  
 <div> 
