@@ -11,12 +11,12 @@
 
 </div style="display: inline_block"><br>
   <img align="center" alt="NIC-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="NIC-R"
+ <img align="center" alt="NIC-SQL"
 height="30" width="50"
 src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-<img align="center" alt="NIC-Sqlite"
+<img align="center" alt="NIC-R"
 height="30" width="50"
-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+src=https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
 <img align="center" alt="NIC-Tableu"
 height="30" width="50"
 src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
