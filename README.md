@@ -17,9 +17,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo
 <img align="center" alt="NIC-R"
 height="30" width="50"
 src=https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
-<img align="center" alt="NIC-Tableu"
+<img align="center" alt="NIC-BI"
 height="30" width="50"
-src=https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)](https://powerbi.microsoft.com/
+src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)](https://powerbi.microsoft.com/
 ">
 </div>
  
