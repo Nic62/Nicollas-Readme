@@ -19,7 +19,7 @@ height="30" width="50"
 src=https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
 <img align="center" alt="NIC-BI"
 height="30" width="50"
-src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg
+src="https://raw.githubusercontent.com/Nic62/meu-repositorio/main/imagens/powerbi-icon.png" alt="Ícone Power BI
 ">
 </div>
  
