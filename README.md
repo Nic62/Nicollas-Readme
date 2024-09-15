@@ -24,7 +24,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 </div>
  
 <div> 
-  <a href="" 
+  <a href="https://www.kaggle.com/nicollasscientist" 
 target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href=
 "https://wa.me/5562992447012" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
